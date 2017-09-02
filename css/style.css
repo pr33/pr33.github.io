@@ -11,7 +11,7 @@ body
 }
 .field
 {
-	position:absolute;
+	position:relative;
 	top:15%;
 	left:25%;	
 	width: 600px;
