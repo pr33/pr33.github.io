@@ -28,15 +28,10 @@ body
 {
 	border:1px solid black;
 }
-.line
-{
-	border:1px solid black;
-	position:relative;
-	top:47%;
-}
 .box
 {
+	border-top:2px solid black;
 	width:100%;
 	display:block;
-	height:49%;
+	height:49.5%;
 }
