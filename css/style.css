@@ -2,8 +2,10 @@ body
 {
 	padding: 0px;
 	background-image: url('http://jootix.ir/wp-content/uploads/2014/12/jootix.ir--997263036.jpg');
-	//background-repeat: no-repeat;
-	background-size: contain;
+	background-repeat: no-repeat;
+	width: 100%;
+	margin: 0;
+	//background-size: contain;
 }
 .field
 {
