@@ -12,9 +12,9 @@ body
 .field
 {
 	position:absolute;
-	top:50%;
+	top:30%;
 	left:50%;
-	width: 100px;
-	height: 100px;
+	width: 600px;
+	height: 400px;
 	background-color: red;
 }
