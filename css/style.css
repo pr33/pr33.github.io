@@ -11,12 +11,12 @@ body
 }
 .field
 {
-	//position:relative;
+	position:absolute;
 	top:250px;
 	left:25%;	
 	width: 50%;
 	height: 400px;
 	background-color: #e6eeec;	
 	border-radius: 10px;
-	border:1px solid #9a95ad;
+	border:3px solid #9a95ad;
 }
