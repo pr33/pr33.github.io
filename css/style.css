@@ -16,6 +16,5 @@ body
 	left:25%;	
 	width: 50%;
 	height: 400px;
-	background-color: red;
-	background:linear-gradient(to left, #fefcea, #e6eeec);
+	background-color: #e6eeec;	
 }
