@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-//$('.pre_box').html("<div class='battle'>1</div>");
-$('.pre_box').css('bodrer-color', 'red');	
+for (var i; i<10 ; i++) $('.pre_box').html("<div class='battle'></div>");
+
 });
 
