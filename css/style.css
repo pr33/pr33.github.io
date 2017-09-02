@@ -2,19 +2,16 @@ body
 {
 	padding: 0px;	
 	width: 100%;
-	margin: 0;		
+	margin: 0;
+	background-size: cover;
+	background-image: url('http://jootix.ir/wp-content/uploads/2014/12/jootix.ir--997263036.jpg');
+	background-repeat: no-repeat;
+	width:100%;
+	height:100%;		
 }
 .field
 {
 	width: 100px;
 	height: 100px;
 	background-color: red;
-}
-.main_part
-{
-	background-size: cover;
-	background-image: url('http://jootix.ir/wp-content/uploads/2014/12/jootix.ir--997263036.jpg');
-	background-repeat: no-repeat;
-	width:100%;
-	height:100%;
 }
