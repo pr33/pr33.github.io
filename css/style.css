@@ -39,3 +39,9 @@ body
 	display:block;
 	height:49.5%;
 }
+.battle
+{
+	width:10px;
+	height:10px;
+	border:1px solid black;
+}
