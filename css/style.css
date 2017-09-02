@@ -14,7 +14,8 @@ body
 	position:relative;
 	top:15%;
 	left:25%;	
-	width: 600px;
+	width: 50%;
 	height: 400px;
 	background-color: red;
+	background:linear-gradient(to left, #fefcea, #e6eeec);
 }
