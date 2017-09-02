@@ -12,11 +12,17 @@ body
 .field
 {
 	position:absolute;
-	top:250px;
+	top:100px;
 	left:25%;	
 	width: 50%;
 	height: 400px;
 	background-color: #e6eeec;	
 	border-radius: 10px;
 	border:3px solid #9a95ad;
+}
+.pre_box
+{
+	width:100px;
+	height:100px;
+	display: inline-block;
 }
